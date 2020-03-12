@@ -1,7 +1,6 @@
 # 100DaysOfCode Twitter Bot
 
-https://twitter.com/xaelbot - automatic!
-[Twitter](https://twitter.com/xaelbot)
+https://twitter.com/xaelbot
 
 ![Image of Xael bot] (https://user-images.githubusercontent.com/57559448/76494465-ee88d300-645a-11ea-8635-0606466833da.png)
 
@@ -15,6 +14,7 @@ This is a simple Twitter bot and will retweet, favorite/like randomly on the bas
 * A Twitter Account.
 * Your bot will be using <a href="https://www.npmjs.com/package/twit" target="_blank">twit</a> which is an npm module to manipulate tweets and streams, and to communicate with the <a href="https://developer.twitter.com/en/docs" target="_blank">Twitter API</a>.
 * A <a href="https://www.heroku.com/" target="_blank">Heroku</a> free account to deploy your bot.
+* Download git from https://git-scm.com/downloads and install it on you computer.
 
 ## Setup
 
@@ -131,3 +131,36 @@ To use npm scripts, make this edit under scripts in package.json :
 Then from terminal:
 
 $ npm start
+
+
+## Deploy on heroku
+
+* Signup for a free account by filling a form on https://heroku.com .
+
+* After a successful signup, you will be redirected to dashboard.
+
+* Create a new app by clicking the button at the top right.
+
+* Fill in your app name (it should be in lower case) and choose your relevant region.
+
+* Download Heroku CLI. Refer the document here on how:
+
+https://devcenter.heroku.com/categories/command-line
+
+Install it by using Teminal on Mac or Windows Powershell:
+
+$heroku
+
+* Login through CLI:
+
+$heroku login
+
+Give the credentials. You will be logged in.
+
+* Move to the directory where you have saved the bot source file using CLI.
+
+* Choose your **Deployment method**, it could be Heroku Git, GitHub or Dropbox. But I highly recommend to go with Heroku Git.
+
+* Follow the cammands given under deployment methods to turn your directory into a git repository and to deploy on heroku.
+
+* Make sure the app is worker app not a web app. Procfile is necessary for that.
