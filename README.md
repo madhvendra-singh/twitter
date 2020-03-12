@@ -139,9 +139,11 @@ $ npm start
 
 * After a successful signup, you will be redirected to dashboard.
 
-* Create a new app by clicking the button at the top right.
+* Create a new app by clicking the New button at the top right.
 
 * Fill in your app name (it should be in lower case) and choose your relevant region.
+
+* Move to the directory where you have saved the bot source file using CLI.
 
 * Download Heroku CLI. Refer the document here on how:
 
@@ -157,9 +159,7 @@ $heroku login
 
 Give the credentials. You will be logged in.
 
-* Move to the directory where you have saved the bot source file using CLI.
-
-* Choose your **Deployment method**, it could be Heroku Git, GitHub or Dropbox. But I highly recommend to go with Heroku Git.
+* Choose your **Deployment method** on the dashboard, it could be Heroku Git, GitHub or Dropbox. But I highly recommend to go with Heroku Git.
 
 * Follow the cammands given under deployment methods to turn your directory into a git repository and to deploy on heroku.
 
