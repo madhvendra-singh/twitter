@@ -1,6 +1,6 @@
 # 100DaysOfCode Twitter Bot
 
-https://twitter.com/xaelbot
+Follow: https://twitter.com/xaelbot
 
 ![Image of Xael bot] (https://user-images.githubusercontent.com/57559448/76494465-ee88d300-645a-11ea-8635-0606466833da.png)
 
@@ -164,3 +164,9 @@ Give the credentials. You will be logged in.
 * Follow the cammands given under deployment methods to turn your directory into a git repository and to deploy on heroku.
 
 * Make sure the app is worker app not a web app. Procfile is necessary for that.
+
+## License
+
+MIT License
+
+Copyright (c) 2020, <a href="https://twitter.com/yathinbabu" target="_blank">Yathin Babu</a>. All rights reserved.
