@@ -2,7 +2,7 @@
 
 Follow: https://twitter.com/xaelbot
 
-![Image of Xael bot] (https://user-images.githubusercontent.com/57559448/76494465-ee88d300-645a-11ea-8635-0606466833da.png)
+![Image of Xael bot](https://user-images.githubusercontent.com/57559448/76494465-ee88d300-645a-11ea-8635-0606466833da.png)
 
 ## Features
 
