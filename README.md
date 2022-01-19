@@ -165,4 +165,4 @@ Give the credentials. You will be logged in.
 
 MIT License
 
-Copyright (c) 2020-21, <a href="https://twitter.com/tumkurlab" target="_blank">TumkurLab</a>. All rights reserved.
+Copyright (c) 2020-21, <a href="https://www.tumkurlab.com" target="_blank">TumkurLab</a>. All rights reserved.
