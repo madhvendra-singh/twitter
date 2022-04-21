@@ -1,8 +1,9 @@
 {
-      "dependencies": {
+   "dependencies": {
         "twit": "^2.2.11",
-      "scripts": {
-        "start": "node bot.js",
-      }
+    "scripts": {
+        "start": "node bot.js"
     }
   }
+}
+  
