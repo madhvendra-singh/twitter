@@ -1,4 +1,5 @@
 # Twitter Bot
+Thanks To TumkurLab and Yathin Babu
 
 Follow: https://twitter.com/madhvendrax
 
