@@ -158,9 +158,3 @@ Give the credentials. You will be logged in.
 * Follow the cammands given under deployment methods to turn your directory into a git repository and to deploy on heroku.
 
 * Make sure the app is worker app not a web app. Procfile is necessary for that.
-
-## License
-
-MIT License
-
-Copyright (c) 2020-21, <a href="https://www.tumkurlab.com" target="_blank">TumkurLab</a>. All rights reserved.
